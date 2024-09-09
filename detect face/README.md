@@ -20,7 +20,7 @@ Welcome to the **Face Detection Mini Project**! This fun little project uses Ope
 ### 3. Run the program:
 Fire up your webcam and run:
 
--      python face_detection.py
+- Press compile and run button.
 
 ### 4. Face Detection Magic ✨:
 The webcam window will open, and it will start detecting faces. You’ll see blue rectangles around faces!
