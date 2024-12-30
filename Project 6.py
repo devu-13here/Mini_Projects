@@ -1,3 +1,6 @@
+#Preferably runs well on the local device 
+#likely vscode
+
 import PyPDF2
 
 # Function to split PDF into individual pages
