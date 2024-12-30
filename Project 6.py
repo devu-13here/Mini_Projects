@@ -27,5 +27,5 @@ def split_pdf(input_pdf_path):
             print(f'Page {page_num + 1} saved as {output_pdf_path}')
 
 # Example usage
-input_pdf_path = "C:/Users/patel/OneDrive/Desktop/5-Lab-file[1].pdf"  # Path to your input PDF
+input_pdf_path = "..."  # Path to your input PDF
 split_pdf(input_pdf_path)
